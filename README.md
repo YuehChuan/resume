@@ -15,7 +15,7 @@ sudo apt install texlive-latex-extra
 
 ** How to fly **
 ```
-git clone
+git clone https://github.com/YuehChuan/resume.git
 cd resume 
 make
 ```
