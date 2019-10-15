@@ -1,5 +1,7 @@
 # A LaTeX resume template
+
 Author: Trey Hunner
+
 Contributer: YuehChuan
 
 Installation
