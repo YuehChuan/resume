@@ -2,7 +2,7 @@
 
 Author: Trey Hunner
 
-Contributer: YuehChuan
+Contributor: YuehChuan
 
 Installation
 ========
@@ -21,8 +21,20 @@ How to fly
 ```
 git clone https://github.com/YuehChuan/resume.git
 cd resume 
+
+*edit resume.tex*
+(◍•ᴗ•◍)ゝ*
+*edit resume.tex*
+
 make
 ```
+Open .pdf simply type terminal:
+`xdg-open resume.pdf`
+
+Cheers 
+
+Document
+========
 `resume.cls` is a document class that adds name and address information to the
 head of the document and provides resume section and subsection environments
 (`rSection` and `rSubsection`).  The address separator format, the
